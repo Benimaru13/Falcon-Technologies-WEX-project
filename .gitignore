@@ -1,0 +1,4 @@
+wex-env/
+brew_data.db
+brew_chart.png
+__pycache__/
