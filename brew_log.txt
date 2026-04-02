@@ -1,0 +1,43 @@
+2026-03-31 07:41:28,855 — Script started
+2026-03-31 07:41:28,855 — Fetching data for 2026-03-31
+2026-03-31 07:41:30,552 — Done! 17101 records saved for 2026-03-31.
+2026-03-31 07:41:33,941 — Chart saved as brew_chart.png
+2026-03-31 07:41:33,941 — Database write complete
+2026-03-31 10:55:17,683 — Script started
+2026-03-31 10:55:17,991 — Fetching data for 2026-03-31
+2026-03-31 10:55:18,962 — Done! 17104 records saved for 2026-03-31.
+2026-03-31 10:55:25,505 — Chart saved as brew_chart.png
+2026-03-31 10:55:25,506 — Database write complete
+2026-04-01 11:42:49,807 — Script started
+2026-04-01 11:42:49,808 — Fetching data for 2026-04-01
+2026-04-01 11:42:52,150 — Done! 17153 records saved for 2026-04-01.
+2026-04-01 11:43:03,203 — Chart saved as brew_chart.png
+2026-04-01 11:43:03,246 — Database write complete
+2026-04-01 18:27:45,766 — Script started
+2026-04-01 18:27:45,766 — Fetching data for 2026-04-01
+2026-04-01 18:34:56,097 — Script started
+2026-04-01 18:34:56,107 — Fetching data for 2026-04-01
+2026-04-01 18:34:58,407 — Done! 17171 records saved for 2026-04-01.
+2026-04-01 18:35:01,981 — Chart saved as brew_chart.png
+2026-04-01 18:35:01,981 — Database write complete
+2026-04-01 20:17:05,299 — Script started
+2026-04-01 20:17:05,303 — Fetching data for 2026-04-01
+2026-04-01 20:18:06,002 — Script started
+2026-04-01 20:18:06,003 — Fetching data for 2026-04-01
+2026-04-01 20:18:07,226 — Done! 17188 records saved for 2026-04-01.
+2026-04-01 20:18:09,141 — Chart saved as brew_chart.png
+2026-04-01 20:18:09,142 — Database write complete
+2026-04-01 20:18:28,947 — Script started
+2026-04-01 20:18:28,947 — Fetching data for 2026-04-01
+2026-04-01 20:18:29,445 — Done! 17188 records saved for 2026-04-01.
+2026-04-01 20:18:31,474 — Chart saved as brew_chart.png
+2026-04-01 20:18:31,475 — Database write complete
+2026-04-01 20:35:42,239 — Script started
+2026-04-01 20:35:42,245 — Fetching data for 2026-04-01
+2026-04-01 20:35:43,153 — Done! 17188 records saved for 2026-04-01.
+2026-04-01 20:36:11,969 — Chart saved as brew_chart.png
+2026-04-01 20:36:11,969 — Database write complete
+2026-04-01 21:04:25,589 — Script started
+2026-04-01 21:04:25,649 — Fetching data from Homebrew API...
+2026-04-01 21:04:26,719 — Snapshot created with id=1 for 2026-04-01
+2026-04-01 21:04:26,789 — Done. 17190 installation rows saved for snapshot 1.
